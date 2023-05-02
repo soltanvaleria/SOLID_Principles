@@ -1,0 +1,6 @@
+0: I cried today
+1: I ate a bug
+0: I cried today
+1: I ate a bug
+0: It was a hard day
+1: I cried
